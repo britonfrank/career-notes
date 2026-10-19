@@ -4,8 +4,11 @@ A private log of work I have shipped, hard stretches, and how I like to build so
 
 This is not the Tallo company repository. Company code stays in its own repo.
 
+The resume draft from the 2026 learner-frontend history is in [resume-evidence.md](resume-evidence.md).
+
 ## How this is organized
 
+- [resume-evidence.md](resume-evidence.md) — counts, bullets, and the adversity read from that history.
 - `achievements/` — what shipped, with the evidence I can point at.
 - `adversity/` — times the first version was not enough, and what I did next.
 - `approaches/` — how I like to work. Written in my own words when I have them.
